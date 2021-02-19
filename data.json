@@ -1,0 +1,15 @@
+{ 
+
+"search_word" : "blouses" ,
+"references" :"565656" ,
+"contact_us_success_message" :"Yourbmessage has been successfully sent to your team" ,
+"contact_us_erroe_message" : "The message cannot be blank." ,
+"valid_email" : "an.harutyunova@gmail.com" ,
+"invalid_email":"test@",
+"not_existing_email" : "test@tt.tt" ,
+"forgot_password_error_message" : "There is no account registered for this email address." ,
+"sign_in_error_message":"Authentication failed.",
+"subject_heading" :"Webmaster" ,
+"add_to_cart_message":"Product successfully added to your shoping cart"
+}
+

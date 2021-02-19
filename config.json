@@ -1,0 +1,6 @@
+{
+"driver_path" : "/Applications/Google Chrome.app/Contents/chromedriver-2",
+"url":"http://automationpractice.com/index.php",
+"email":"an.harutyunova@gmail.com",
+"password" : "Admin"
+}
